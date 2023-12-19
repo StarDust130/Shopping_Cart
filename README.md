@@ -16,7 +16,7 @@ Supercharge your e-commerce experience with this awesome React and Tailwind CSS 
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/yourusername/your-repo.git`
+1. **Clone the repository:** `git clone https://github.com/StarDust130/Shopping_Cart.git`
 2. **Install dependencies:** `npm install`
 3. **Run the app:** `npm run dev`
 
